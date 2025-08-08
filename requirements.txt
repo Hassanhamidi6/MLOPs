@@ -5,3 +5,4 @@ mlflow
 flask
 notebook
 ipykernel
+dvc
