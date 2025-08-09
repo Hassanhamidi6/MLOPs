@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOPs/2-DLproject/mlruns/966422546330303566/79c275738faf4e94bd169f0ff4b9a104/artifacts
+end_time: 1754729321857
+entry_point_name: ''
+experiment_id: '966422546330303566'
+lifecycle_stage: active
+run_id: 79c275738faf4e94bd169f0ff4b9a104
+run_name: abundant-bird-481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754729249603
+status: 3
+tags: []
+user_id: Hp

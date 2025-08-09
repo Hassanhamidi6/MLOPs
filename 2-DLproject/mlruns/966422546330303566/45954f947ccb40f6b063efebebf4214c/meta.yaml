@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOPs/2-DLproject/mlruns/966422546330303566/45954f947ccb40f6b063efebebf4214c/artifacts
+end_time: 1754729375814
+entry_point_name: ''
+experiment_id: '966422546330303566'
+lifecycle_stage: active
+run_id: 45954f947ccb40f6b063efebebf4214c
+run_name: marvelous-cub-537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754729356112
+status: 3
+tags: []
+user_id: Hp

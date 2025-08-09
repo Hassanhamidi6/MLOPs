@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOPs/2-DLproject/mlruns/966422546330303566/8c89cf06e7ba4e6097a847851fb2bcaa/artifacts
+deleted_time: 1754729709028
+end_time: 1754729054990
+entry_point_name: ''
+experiment_id: '966422546330303566'
+lifecycle_stage: deleted
+run_id: 8c89cf06e7ba4e6097a847851fb2bcaa
+run_name: efficient-bug-972
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754729054873
+status: 4
+tags: []
+user_id: Hp

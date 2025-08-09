@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOPs/2-DLproject/mlruns/841216700655126964/fe9e10dfcf0848db86a8eea2cd25f3e6/artifacts
+deleted_time: 1754729725746
+end_time: 1754727627080
+entry_point_name: ''
+experiment_id: '841216700655126964'
+lifecycle_stage: deleted
+run_id: fe9e10dfcf0848db86a8eea2cd25f3e6
+run_name: able-cat-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754727626960
+status: 4
+tags: []
+user_id: Hp

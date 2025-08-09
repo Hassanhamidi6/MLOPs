@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOPs/2-DLproject/mlruns/966422546330303566/782484b64e524d8a9d8c19aa36850226/artifacts
+end_time: 1754729356065
+entry_point_name: ''
+experiment_id: '966422546330303566'
+lifecycle_stage: active
+run_id: 782484b64e524d8a9d8c19aa36850226
+run_name: delightful-seal-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754729340656
+status: 3
+tags: []
+user_id: Hp

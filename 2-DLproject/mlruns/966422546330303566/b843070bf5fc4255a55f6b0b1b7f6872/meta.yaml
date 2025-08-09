@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/MLOPs/2-DLproject/mlruns/966422546330303566/b843070bf5fc4255a55f6b0b1b7f6872/artifacts
+end_time: 1754729340589
+entry_point_name: ''
+experiment_id: '966422546330303566'
+lifecycle_stage: active
+run_id: b843070bf5fc4255a55f6b0b1b7f6872
+run_name: caring-mare-647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754729321934
+status: 3
+tags: []
+user_id: Hp

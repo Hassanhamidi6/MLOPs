@@ -6,3 +6,7 @@ flask
 notebook
 ipykernel
 dvc
+
+keras  
+tensorflow
+hyperopt

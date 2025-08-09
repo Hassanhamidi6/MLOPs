@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLOPs/2-DLproject/mlruns/966422546330303566/6c258960cda64a1bafe648c3aeb2860c/artifacts
+deleted_time: 1754729708995
+end_time: 1754729201905
+entry_point_name: ''
+experiment_id: '966422546330303566'
+lifecycle_stage: deleted
+run_id: 6c258960cda64a1bafe648c3aeb2860c
+run_name: caring-pig-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754729201788
+status: 4
+tags: []
+user_id: Hp
