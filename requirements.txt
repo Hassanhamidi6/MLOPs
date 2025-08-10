@@ -12,3 +12,14 @@ tensorflow
 hyperopt
 
 boto3 
+
+
+'''
+MLFLOW with AWS is  not completed yet (78)
+
+DVC have to learn 
+
+Docker also have not learn yet (85)
+
+
+'''
