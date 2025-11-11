@@ -15,9 +15,12 @@ boto3
 
 
 '''
+- MLOPs started on (Aug-7-2025)
+
+
 MLFLOW with AWS is  not completed yet (78)
 
-DVC have to learn 
+have to learn  DVC
 
 Docker also have not learn yet (85)
 
